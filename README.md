@@ -11,3 +11,7 @@ All designs shown here have been created by DAVID MARTÍNEZ.
 
 
 [![MECHANICAL-PROPERTIES.jpg](https://i.postimg.cc/Z50hg6Cx/MECHANICAL-PROPERTIES.jpg)](https://postimg.cc/HrGK8c0r)
+
+
+# SIMULATION on SOLIDWORKS, to evaluate mechanical properties
+[![SIMULATION-SOLIDWORKS.jpg](https://i.postimg.cc/6pTfvpmQ/SIMULATION-SOLIDWORKS.jpg)](https://postimg.cc/dhPCMwvM)
